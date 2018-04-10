@@ -27,7 +27,7 @@
 #include <lualib.h>
 #include <lauxlib.h>
 
-#include "prompt.h"
+#include "luaprompt.h"
 
 #if LUA_VERSION_NUM == 501
 #define LUA_OK 0
